@@ -1,2 +1,7 @@
-# Stock-market-forecasting-LSTM-
-This project demonstrates how to use a Stacked Long Short-Term Memory (LSTM) model for forecasting stock prices. LSTMs are a type of recurrent neural network (RNN) well-suited for time series prediction tasks, making them ideal for capturing trends and patterns in stock market data.
+Features
+
+Data Preprocessing: Clean and prepare stock market data for training, including normalization and windowing.
+Stacked LSTM Architecture: Leverages a multi-layer LSTM network to enhance feature extraction and prediction accuracy.
+Visualization: Provides clear plots to compare actual vs. predicted stock prices.
+Configurable Parameters: Adjust model layers, hyperparameters, and time steps for customization.
+Evaluation Metrics: Computes error metrics such as MAE, RMSE, and MAPE for performance assessment.
